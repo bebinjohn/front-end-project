@@ -1,0 +1,23 @@
+.Slider_outer{
+    height: 35em;
+}
+
+.Slider_image{
+    width: 100%;
+    height: 35em;
+    text-align: center;
+}
+
+.Slider_font{
+    font-family: Sofia;
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 600px) {
+    .Slider_outer{
+        height: 20em;
+    }
+    .Slider_image{
+        height: 20em;
+    }
+  }

@@ -1,0 +1,29 @@
+.form_all{
+    border: solid black 2px;
+    margin: 3% 30% 5% 30%;
+    padding: 3%;
+}
+
+.button{
+    border-radius: 20%;
+    padding: 1% 2% 1% 2%;
+    background-color: blue;
+    color: white;
+    transition: transform .2s;
+}
+
+.button:hover{
+    transform: scale(1.5);
+}
+
+.heading3{
+    font-weight: bold;
+    font-family: 'Carter One';
+}
+
+
+@media only screen and (max-width: 600px) {
+    .form_all{
+        margin:2% 10% 2% 10%;
+    }
+  }

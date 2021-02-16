@@ -1,0 +1,16 @@
+.gif{
+    background-image: url('../../assets/Images/cover.jpg');
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    .gif{
+        height: 200px;
+    }
+  }
+
+

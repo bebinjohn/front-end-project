@@ -1,0 +1,23 @@
+.nav_icon{
+    width: 10%;
+    height: 5%;
+}
+.navbar_outer{
+    margin: 0;
+    display: flex;
+    height: 70px;
+}
+.navbar_header{
+    flex:15
+}
+.navbar_text{
+    color: darkblue;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+@media only screen and (max-width: 600px) {
+    .nav_icon{
+        width: 25%;
+    }
+  }

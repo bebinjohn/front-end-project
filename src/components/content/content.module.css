@@ -1,0 +1,45 @@
+.winner_para{
+    font-family: 'Sofia';
+    font-size: 1em;
+}
+
+.winner_heading1{
+    font-family: 'Carter One';
+    font-size: 2em;
+}
+
+.winner_content{
+    background-color: rgb(4, 4, 43);
+    color: white;
+    height: 700px;
+}
+
+.winner_display{
+    padding-top: 3%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.winnner_img{
+    width: 140%;
+    flex: 3;    
+}
+
+.winner_font{
+    flex: 0.6;
+    padding-top: 7%;
+}
+
+.winner_heading5{
+    font-size: 1em;
+}
+
+@media only screen and (max-width: 600px) {
+    .winner_display{
+        flex-direction: column;
+    }
+    .winnner_img{
+        width: 100%;
+        flex: 3;    
+    }
+  }
