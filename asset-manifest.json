@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/front-end-project/static/css/main.d31f921f.chunk.css",
+    "main.js": "/front-end-project/static/js/main.8536e86a.chunk.js",
+    "main.js.map": "/front-end-project/static/js/main.8536e86a.chunk.js.map",
+    "runtime-main.js": "/front-end-project/static/js/runtime-main.239cac63.js",
+    "runtime-main.js.map": "/front-end-project/static/js/runtime-main.239cac63.js.map",
+    "static/css/2.7e46a9b3.chunk.css": "/front-end-project/static/css/2.7e46a9b3.chunk.css",
+    "static/js/2.67de46d8.chunk.js": "/front-end-project/static/js/2.67de46d8.chunk.js",
+    "static/js/2.67de46d8.chunk.js.map": "/front-end-project/static/js/2.67de46d8.chunk.js.map",
+    "static/js/3.ef472eec.chunk.js": "/front-end-project/static/js/3.ef472eec.chunk.js",
+    "static/js/3.ef472eec.chunk.js.map": "/front-end-project/static/js/3.ef472eec.chunk.js.map",
+    "index.html": "/front-end-project/index.html",
+    "static/css/2.7e46a9b3.chunk.css.map": "/front-end-project/static/css/2.7e46a9b3.chunk.css.map",
+    "static/css/main.d31f921f.chunk.css.map": "/front-end-project/static/css/main.d31f921f.chunk.css.map",
+    "static/js/2.67de46d8.chunk.js.LICENSE.txt": "/front-end-project/static/js/2.67de46d8.chunk.js.LICENSE.txt",
+    "static/media/01.a85ac59f.jpg": "/front-end-project/static/media/01.a85ac59f.jpg",
+    "static/media/02.e81f2eda.jpg": "/front-end-project/static/media/02.e81f2eda.jpg",
+    "static/media/03.b7eee766.jpeg": "/front-end-project/static/media/03.b7eee766.jpeg",
+    "static/media/04.0d3d9972.jpg": "/front-end-project/static/media/04.0d3d9972.jpg",
+    "static/media/Nokia-Logo.wine.14bea293.png": "/front-end-project/static/media/Nokia-Logo.wine.14bea293.png",
+    "static/media/summary.module.css": "/front-end-project/static/media/cover.2db6c8a1.jpg",
+    "static/media/i01.c25cfce9.png": "/front-end-project/static/media/i01.c25cfce9.png",
+    "static/media/i02.7f736ac7.png": "/front-end-project/static/media/i02.7f736ac7.png",
+    "static/media/i03.2b0906aa.png": "/front-end-project/static/media/i03.2b0906aa.png",
+    "static/media/i04.51ec4a2a.png": "/front-end-project/static/media/i04.51ec4a2a.png",
+    "static/media/winner_image.612a5d7a.png": "/front-end-project/static/media/winner_image.612a5d7a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.239cac63.js",
+    "static/css/2.7e46a9b3.chunk.css",
+    "static/js/2.67de46d8.chunk.js",
+    "static/css/main.d31f921f.chunk.css",
+    "static/js/main.8536e86a.chunk.js"
+  ]
+}
